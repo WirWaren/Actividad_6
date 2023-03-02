@@ -8,5 +8,6 @@
 </head>
 <body>
         Vista del producto
+        <a href="{{route('Creacion')}}">Create Product</a>
 </body>
 </html>
